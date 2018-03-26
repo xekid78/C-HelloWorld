@@ -1,5 +1,5 @@
 # CsHelloWorld
-HelloWorldと表示
+HelloWorldと表示（.NET Core）
 
 ## 処理
 コンソールアプリとして画面にHelloWorldと表示
