@@ -7,10 +7,6 @@ HelloWorldと表示
 ## コード
 ```
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Hello
 {
@@ -18,10 +14,13 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World!");
 
-            Console.WriteLine("Press any key to exit.");
+            // 実行結果確認のための処理 ここから
+            Console.WriteLine();
+            Console.WriteLine("何かキーを押してください");
             Console.ReadKey();
+            // ここまで
         }
     }
 }
@@ -29,8 +28,9 @@ namespace Hello
 
 ## 出力結果  
 ```
-Hello World
-Press any key to exit.
+Hello World!
+
+何かキーを押してください
 ```
   
 ## 開発環境
