@@ -1,0 +1,11 @@
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Hello\Hello\obj\Debug\netcoreapp2.0\Hello.csprojResolveAssemblyReference.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Hello\Hello\obj\Debug\netcoreapp2.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Hello\Hello\obj\Debug\netcoreapp2.0\Hello.AssemblyInfoInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Hello\Hello\obj\Debug\netcoreapp2.0\Hello.AssemblyInfo.cs
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Hello\Hello\bin\Debug\netcoreapp2.0\Hello.deps.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Hello\Hello\bin\Debug\netcoreapp2.0\Hello.runtimeconfig.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Hello\Hello\bin\Debug\netcoreapp2.0\Hello.runtimeconfig.dev.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Hello\Hello\bin\Debug\netcoreapp2.0\Hello.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Hello\Hello\bin\Debug\netcoreapp2.0\Hello.pdb
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Hello\Hello\obj\Debug\netcoreapp2.0\Hello.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Hello\Hello\obj\Debug\netcoreapp2.0\Hello.pdb
