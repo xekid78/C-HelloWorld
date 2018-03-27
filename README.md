@@ -14,13 +14,7 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-            // 実行結果確認のための処理 ここから
-            Console.WriteLine();
-            Console.WriteLine("何かキーを押してください");
-            Console.ReadKey();
-            // ここまで
+            Console.WriteLine("Hello World");
         }
     }
 }
@@ -28,9 +22,7 @@ namespace Hello
 
 ## 出力結果  
 ```
-Hello World!
-
-何かキーを押してください
+Hello World
 ```
   
 ## 開発環境
