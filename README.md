@@ -2,7 +2,7 @@
 HelloWorldと表示（.NET Core）
 
 ## 処理
-コンソールアプリとして画面にHelloWorldと表示
+コンソールアプリとして画面に`HelloWorld`と表示
 
 ## コード
 ```
